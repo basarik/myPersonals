@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">MyPersonals</string>
+    <string name="userName">Kullanıcı Adı</string>
+    <string name="password">Şifre</string>
+    <string name="login">Giriş Yap</string>
+    <string name="progressDialog">Lütfen bekleyiniz…</string>
+    <string name="noAccountYetCreateOne">
+        <u>Henüz bir hesabın yok mu? Hemen yarat</u>
+    </string>
+    <string name="commigSoon">Yapım aşamasında :)</string>
+
 </resources>
